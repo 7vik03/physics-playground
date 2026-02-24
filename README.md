@@ -1,6 +1,6 @@
 # physics-playground
 
-Real-time physics simulations built on top of my software rasterizer. CPU first, then ported to CUDA for GPU acceleration.
+Real-time physics simulations using OpenGL/CUDA. 
 
 ## What I'm Implementing
 
