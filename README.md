@@ -24,9 +24,6 @@ Real-time physics simulations using OpenGL/CUDA.
 - Parallel integration
 - 1000 particles (CPU) → 100,000+ particles (GPU)
 
-## Dependencies
-- [soft-raster](https://github.com/7vik03/software-raster) - My rendering engine
-
 ## Resources
 - [Ten Minute Physics](https://www.youtube.com/c/TenMinutePhysics) - Matthias Müller's tutorials
 - [Game Physics Engine Development](https://www.amazon.com/Game-Physics-Engine-Development-Commercial-Grade/dp/0123819768) - Ian Millington
